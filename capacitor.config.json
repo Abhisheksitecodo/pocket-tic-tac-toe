@@ -1,0 +1,9 @@
+{
+  "appId": "app.lovable.e55afbdefca5487187bf17127d2e8890",
+  "appName": "Tic Tac Toe",
+  "webDir": "dist",
+  "server": {
+    "url": "https://e55afbde-fca5-4871-87bf-17127d2e8890.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
